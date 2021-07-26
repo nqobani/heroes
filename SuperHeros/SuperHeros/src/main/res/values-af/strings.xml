@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Super Heros</string>
+    <string name="title_aboutheroesapp">Oor</string>
+    <string name="search_hint">soek op die naam van die superheld</string>
+    <string name="something_went_wrong">Iets het verkeerd geloop</string>
+    <string name="no_match_found">Geen wedstryd gevind nie</string>
+</resources>
